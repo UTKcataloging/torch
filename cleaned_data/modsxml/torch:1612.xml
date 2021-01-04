@@ -58,7 +58,7 @@
       <languageTerm type="text" authority="iso639-2b">English</languageTerm>
    </language>
    <typeOfResource>text</typeOfResource>
-   <classification authority="lcc">LD5291.8 .T67 2010</classification>
+   <classification authority="lcc">LD5291.8 .T67</classification>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>Torchbearer</title>
@@ -72,9 +72,7 @@
       <languageOfCataloging>
          <languageTerm type="text" authority="iso639-2b">English</languageTerm>
       </languageOfCataloging>
-      <recordOrigin>
-Created and edited in general conformance to MODS Guidelines (Version 3.5).
-</recordOrigin>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
    </recordInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
